@@ -1,5 +1,5 @@
 
-# ![alt text](https://github.com/JenniferSmith007/React_Gorilla/blob/main/src/components/images/gorillaIcon.png)
+# ![alt text](https://github.com/JenniferSmith007/React_Gorilla/blob/main/src/components/images/Logo.png)
 
 ## ![alt text](https://github.com/JenniferSmith007/React_Gorilla/blob/main/src/components/images/Gorilla.png)
 
